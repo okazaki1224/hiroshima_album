@@ -1,24 +1,19 @@
 # README
+#README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##サイト名
+ヒロシマアルバム
 
-Things you may want to cover:
+##サイトの概要
+文芸作品（俳句・川柳など）や絵画、写真を投稿し交流してもらうサイト。広島県民以外も歓迎。
 
-* Ruby version
+##テーマを選んだ理由
+現在の仕事を通して、中高年はもちろん若い世代がもっと文芸活動や写真に親しめる可能性があると感じ、
+作品を発表する場を作りたいと思った。投稿者の出身地（市またはは郡）や年齢層の分布などが可視化できれば
+参加者への刺激にもなるはず。
 
-* System dependencies
+##ターゲットユーザー
+創作活動や作品に親しむ地元（広島県）の人々。広島県外からの参加も歓迎。
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##主な利用シーン
+作品を発表したいと感じた時。発表せずに自分で書きためるだけの機能も（作りたい）。
