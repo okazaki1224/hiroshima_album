@@ -22,10 +22,10 @@
 
 作品を発表したい、書きとめたいと感じた時。
 
-##使用素材
+## 使用素材
 
 未定、おそらくFontAwesomeを利用
 
-##実装機能リスト（スプレッドシートURL)
+## 実装機能リスト（スプレッドシートURL)
 
 https://docs.google.com/spreadsheets/d/1xGxYfnPwwEWUkuFTQ_jhxuPvDRKR609750XrJHKO1ds/edit?usp=sharing
